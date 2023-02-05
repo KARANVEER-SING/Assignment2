@@ -1,0 +1,32 @@
+*{
+    padding-left: 165px;
+    margin: 20px;
+}
+
+body{
+    background-color:rgb(66, 52, 39);
+}
+
+h1{
+    font-weight: bold;
+    color: lightskyblue; 
+    padding-left: 125px; 
+}
+
+h1:hover{
+    color: red;
+}
+
+h2{
+    font-family: 'Amarante';font-size: 22px;
+    font-weight:bolder;
+    color:yellow;
+    
+}
+
+div{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:snow;
+}
+
+
